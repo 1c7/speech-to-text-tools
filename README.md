@@ -28,6 +28,10 @@
 （待写）
 
 
+## 其他字幕相关工具
+### [Video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor)
+将视频中的硬字幕提取为外挂字幕文件(srt格式)的软件
+
 <!-- ## 语音转文字工具
 1. Whisper (OpenAI)
 2. Microsoft Azure Speech Services
