@@ -24,15 +24,19 @@
 ### [VideoSubtitleGenerator](https://github.com/buxuku/VideoSubtitleGenerator)
 批量为本地视频生成字幕文件，并可将字幕文件翻译成其它语言， 跨平台支持 window, mac 系统
 
-## 排行榜：最好用的前三名
-（待写）
-
+### [Open-Lyrics](https://github.com/zh-plus/openlrc)
+Open-Lyrics is a Python library that transcribes voice files using faster-whisper, and translates/polishes the resulting text into .lrc files in the desired language using LLM, e.g. OpenAI-GPT, Anthropic-Claude.
 
 ## 其他字幕相关工具
 ### [Video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor)
 将视频中的硬字幕提取为外挂字幕文件(srt格式)的软件
 
-<!-- ## 语音转文字工具
+<!-- 
+
+## 排行榜：最好用的前三名
+（待写）
+
+## 语音转文字工具
 1. Whisper (OpenAI)
 2. Microsoft Azure Speech Services
 3. Google Cloud Speech-to-Text
