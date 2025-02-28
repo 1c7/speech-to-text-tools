@@ -32,6 +32,10 @@ N46Whisper 是基于 Google Colab 的应用。开发初衷旨在提高乃木坂4
 应用输出文件为ass或srt格式，内置指定字幕组的字幕格式，可直接导入 Aegisub 进行后续翻译及时间轴校正。
 本项目将不再进行维护和更新，感谢大家的帮助和支持。
 
+### [bili2text](https://github.com/lanbinshijie/bili2text)
+Bilibili视频转文字，一步到位，输入链接即可使用
+
+
 ## 其他与"字幕", "翻译" 有关的工具
 ### [Video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor)
 将视频中的硬字幕提取为外挂字幕文件(srt格式)的软件
