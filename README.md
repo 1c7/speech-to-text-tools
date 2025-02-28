@@ -27,6 +27,11 @@
 ### [Open-Lyrics](https://github.com/zh-plus/openlrc)
 Open-Lyrics is a Python library that transcribes voice files using faster-whisper, and translates/polishes the resulting text into .lrc files in the desired language using LLM, e.g. OpenAI-GPT, Anthropic-Claude.
 
+### [N46Whisper](https://github.com/Ayanaminn/N46Whisper)
+N46Whisper 是基于 Google Colab 的应用。开发初衷旨在提高乃木坂46（以及坂道系）字幕组的工作效率。但本应用亦适于所有日语视频的字幕制作。
+应用输出文件为ass或srt格式，内置指定字幕组的字幕格式，可直接导入 Aegisub 进行后续翻译及时间轴校正。
+本项目将不再进行维护和更新，感谢大家的帮助和支持。
+
 ## 其他与"字幕", "翻译" 有关的工具
 ### [Video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor)
 将视频中的硬字幕提取为外挂字幕文件(srt格式)的软件
