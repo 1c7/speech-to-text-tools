@@ -9,8 +9,10 @@
 1. 拖入音频文件 (.wav .mp3 等) 或视频文件 (.mp4) 到软件中。
 2. 软件输出字幕 (.srt .ass .vtt)
 
-## 名单（共 4 个）
-（排名不分先后）
+## 工具名单
+
+### [Subs AI](https://github.com/absadiki/subsai
+Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants
 
 ### [AsrTools](https://github.com/WEIFENG2333/AsrTools)
 智能语音转文字工具 | 高效批处理 | 用户友好界面 | 无需 GPU |支持 SRT/TXT 输出 | 让您的音频瞬间变成精确文字！
