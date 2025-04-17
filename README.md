@@ -47,6 +47,8 @@ Bilibili视频转文字，一步到位，输入链接即可使用
 ### [Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing)
 实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字
 
+### [字幕工具箱 https://zm.i8k.tv](https://zm.i8k.tv/)
+
 <!-- 
 
 ## 排行榜：最好用的前三名
